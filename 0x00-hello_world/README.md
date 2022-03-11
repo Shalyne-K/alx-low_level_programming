@@ -1,1 +1,1 @@
-Run a C file
+Compile a C file but do not link
