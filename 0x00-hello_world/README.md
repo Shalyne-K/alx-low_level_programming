@@ -1,1 +1,1 @@
-Generate assembly code of a C code
+Compile a C file and create an executalble named cisfun
