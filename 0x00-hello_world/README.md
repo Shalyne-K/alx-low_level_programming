@@ -1,1 +1,1 @@
-Compile a C file but do not link
+Generate assembly code of a C code
