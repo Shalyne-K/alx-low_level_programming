@@ -1,1 +1,1 @@
-Compile a C file and create an executalble named cisfun
+Write a C program with given output that ends with a newline
