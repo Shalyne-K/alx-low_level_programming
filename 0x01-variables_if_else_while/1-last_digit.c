@@ -1,16 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h> 
+#include <time.h>
 
-/** 
- *  * main - print last digit of the random number in variable n 
+/**
+ * main - print last digit of the random number in variable n
  * Description: using if-else function
  * Return: 0
  */
-int main(void) 
+int main(void)
 {
 	int n, last;
-	
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 
