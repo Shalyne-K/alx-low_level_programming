@@ -1,1 +1,1 @@
-Generate assembly of a C code
+Print given input to standard error
