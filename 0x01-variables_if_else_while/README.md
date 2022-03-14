@@ -1,1 +1,1 @@
-Print last digit of random no.
+Print alphabet in lowercase
