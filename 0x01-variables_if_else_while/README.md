@@ -1,1 +1,1 @@
-Print alphabet in lowercase then in uppercase
+Print all letters in lowercase except q and e
