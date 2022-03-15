@@ -1,1 +1,1 @@
-Print the alphabet 10 times in lowercase
+Write a function that checks for lowercase character
