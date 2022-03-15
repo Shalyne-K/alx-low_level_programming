@@ -1,1 +1,1 @@
-Program that computes the sum of multiples of 3 or 5 below 1024 (excluded)
+Print the first 50 Fibonacci numbers starting with 1 and 2
