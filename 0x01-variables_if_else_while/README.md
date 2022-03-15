@@ -1,1 +1,1 @@
-Print all possible different combinations of two digits
+Print all possible combinations of two two-digit numbers
