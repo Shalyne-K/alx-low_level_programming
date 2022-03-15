@@ -1,1 +1,1 @@
-Function that prints all natural no.s from n to 98
+Function that prints n times table
