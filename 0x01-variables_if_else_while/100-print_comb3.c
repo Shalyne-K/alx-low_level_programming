@@ -19,7 +19,7 @@ int main(void)
 	while (x < 100)
 	{
 		y = x / 10; /* tens */
-		y = x / 10; /* tens */
+		z = x % 10; /* unit */
 
 		if (y < z)
 		{
