@@ -9,7 +9,7 @@ int main(void)
 {
 	char ch;
 
-	for (ch = 0; i < 10; chi++)
+	for (ch = 0; ch < 10; ch++)
 	{
 		printf("%d", ch);
 	}
