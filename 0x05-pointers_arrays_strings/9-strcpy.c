@@ -10,10 +10,19 @@
 
 char *_strcpy(char *dest, char *src)
 {
-	char *anon = dest;
+	int index, x;
 
-	while (*src != '\0')
-		*dest++ = *src++;
+	while (src[index] != '\0')
+	{
+		index++;
+	}
 
-	return (anon);
+	for (x = 0; x < index; index++)
+	{
+		dest[index] = src[index];
+	}
+
+	dest[index] = '\0';
+
+	return (dest);
 }
