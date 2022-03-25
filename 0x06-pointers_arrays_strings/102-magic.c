@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - check the code
- * Description: add code to print required output
- * Return: Always 0.
- */
 
 int main(void)
 {
