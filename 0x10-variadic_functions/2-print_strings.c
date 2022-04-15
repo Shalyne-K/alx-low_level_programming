@@ -4,7 +4,7 @@
 
 /**
  * print_strings - print strings
- * @separator char -- btwn strings
+ * @separator: char -- btwn strings
  * @n:unsigned int -- no. of arg(s)
  * Return:void
  */
